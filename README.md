@@ -34,7 +34,7 @@
 
 "eng", "kor", "jpn", "deu", "spa", "fra", "Latin", "grc:old greek", "chi_sim", "chi_tra"
 
----
+<hr style="border-top: 1px solid #d3d3d3;">
 
 
 ## to do
