@@ -34,8 +34,7 @@
 
 "eng", "kor", "jpn", "deu", "spa", "fra", "Latin", "grc:old greek", "chi_sim", "chi_tra"
 
-| --- | --- | --- |
-
+___
 
 ## to do
 
