@@ -1,4 +1,4 @@
-# ocrr
+# OCRR
 
 
 ### Select Language -> Load Image -> Convert -> Save As
