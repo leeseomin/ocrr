@@ -4,6 +4,7 @@
 ###  :o: Select Language -> Load Image -> Convert -> Save As
 
 ![대표](https://github.com/leeseomin/ocrr/blob/main/pic/1.png)
+ <br/>
 ![대표2](https://github.com/leeseomin/ocrr/blob/main/pic/2.png)
 
 
