@@ -3,8 +3,8 @@
 
 ###  :o: Select Language -> Load Image -> Convert -> Save As
 
-![대표](https://github.com/leeseomin/ocr_ex/blob/main/pic/1.png)
-![대표2](https://github.com/leeseomin/ocr_ex/blob/main/pic/2.png)
+![대표](https://github.com/leeseomin/ocrr/blob/main/pic/1.png)
+![대표2](https://github.com/leeseomin/ocrr/blob/main/pic/2.png)
 
 
 ## Dependency (Tested on an M1 Mac) 필수설치 
