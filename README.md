@@ -27,12 +27,11 @@
 ## Language packs may take a while to download on first run. 
 (최초실행시 언어팩다운으로 다소오래걸릴수있음)
 
- <br/>
+
 ## Supported languages 지원 언어
 
 "eng", "kor", "jpn", "deu", "spa", "fra", "Latin", "grc:old greek", "chi_sim", "chi_tra"
 
- <br/>
 ## to do
 
 
