@@ -23,7 +23,8 @@
 ```python ocr_33.py```
 
 
-## Language packs may take a while to download on first run. (최초실행시 언어팩다운으로 다소오래걸릴수있음)
+## Language packs may take a while to download on first run. 
+(최초실행시 언어팩다운으로 다소오래걸릴수있음)
 
 
 ## Supported languages 지원 언어
