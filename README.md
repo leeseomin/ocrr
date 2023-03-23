@@ -1,4 +1,4 @@
-# OCRR
+# OCRR  : OCR gui software based on Tesseract OCR 
 
 
 ###  :o: Select Language -> Load Image -> Convert -> Save As 
