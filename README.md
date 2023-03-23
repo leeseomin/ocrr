@@ -1,7 +1,7 @@
 # OCRR
 
 
-###  :o: Select Language -> Load Image -> Convert -> Save As  +  
+###  :o: Select Language -> Load Image -> Convert -> Save As 
 
 ### :o: Batch conversion support
 
