@@ -3,7 +3,7 @@
 
 ###  :o: Select Language -> Load Image -> Convert -> Save As 
 
-### :o: Batch conversion support
+### :o: Batch conversion support (배치 일괄 변환 지원)
 
 ![대표](https://github.com/leeseomin/ocrr/blob/main/pic/1.png)
  <br/>
