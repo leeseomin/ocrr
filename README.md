@@ -18,7 +18,7 @@
 
 
 
-## run code 앱실행 
+## run code 앱실행  (Current version 0.33)
 
 ```python ocr_33.py```
 
