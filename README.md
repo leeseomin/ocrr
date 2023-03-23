@@ -6,7 +6,7 @@
 ![대표](https://github.com/leeseomin/ocr_ex/blob/main/pic/1.png)
 
 
-## 필수설치 Dependency (Tested on an M1 Mac) 
+## Dependency (Tested on an M1 Mac) 필수설치 
 
 
 ```pip install pytesseract ```
@@ -18,15 +18,23 @@
 
 
 
-## 앱실행 run code
+## run code 앱실행 
 
 ```python ocr_33.py```
+
+
+### Language packs may take a while to download on first run.
+
+
+### Supported languages 지원 언어
+
+"eng", "kor", "jpn", "deu", "spa", "fra", "Latin", "grc:old greek", "chi_sim", "chi_tra"
 
 
 ## to do
 
 
-윈도우 EXE 앱으로 
+With the mobile app 
 
 
 ## Credit
