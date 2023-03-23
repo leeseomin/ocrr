@@ -1,7 +1,7 @@
 # OCRR
 
 
-### Select Language -> Load Image -> Convert -> Save As
+###  :o: Select Language -> Load Image -> Convert -> Save As
 
 ![대표](https://github.com/leeseomin/ocr_ex/blob/main/pic/1.png)
 
