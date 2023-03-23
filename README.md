@@ -18,9 +18,9 @@
 
 
 
-## run code 앱실행  (Current version 0.33)
+## run code 앱실행  (Current version 0.37)
 
-```python ocr_33.py```
+```python ocr_37.py```
 
  <br/>
 
@@ -28,6 +28,13 @@
 (최초실행시 언어팩다운으로 다소오래걸릴수있음)
 
 
+## Key Features
+
+individual image conversion.
+
+Batch conversion feature. (select batch folder -> batch convert)
+
+Support for 10 languages
 
 
 ## Supported languages 지원 언어
@@ -40,7 +47,6 @@
 ## to do
 
 
-bulk convert
 
 With the mobile app 
 
