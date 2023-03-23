@@ -1,7 +1,7 @@
 # OCRR
 
 
-###  :o: Select Language -> Load Image -> Convert -> Save As
+###  :o: Select Language -> Load Image -> Convert -> Save As  (Batch conversion) 
 
 ![대표](https://github.com/leeseomin/ocrr/blob/main/pic/1.png)
  <br/>
