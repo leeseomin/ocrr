@@ -41,10 +41,11 @@ Batch conversion feature. (select batch folder -> batch convert)
 Support for 10 languages
 
 
-## Supported languages 지원 언어
+## Supported languages 현재 지원 언어
 
 "eng", "kor", "jpn", "deu", "spa", "fra", "Latin", "grc:old greek", "chi_sim", "chi_tra"
 
+영어,한글, 일본, 독일, 스페인, 프랑스, 라틴어, 고대그리스어, 한문, 중국어간자.
 
 
 
