@@ -10,7 +10,7 @@
 ![대표2](https://github.com/leeseomin/ocrr/blob/main/pic/3.png)
 
 
-## Dependency (Tested on an M1 Mac) 필수설치 
+## Dependency (Tested on an M1 Mac) 필수설치 맥에서 태스팅.
 
 
 ```pip install pytesseract ```
