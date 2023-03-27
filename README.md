@@ -24,7 +24,7 @@
 
 ## run code 앱실행  (Current version 0.37)
 
-```python ocr_37.py```
+```python ocrr_037.py```
 
  <br/>
 
