@@ -19,6 +19,9 @@
 
 ```pip install Pillow```
 
+```pip install pyperclip```
+
+
 
 
 
