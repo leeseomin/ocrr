@@ -5,9 +5,8 @@
 
 ### :o: Batch conversion support (배치 일괄 변환 지원)
 
-![대표](https://github.com/leeseomin/ocrr/blob/main/pic/1.png)
- <br/>
-![대표2](https://github.com/leeseomin/ocrr/blob/main/pic/3.png)
+
+![Image](https://github.com/leeseomin/PDF_PNG/blob/main/capture.png)
 
 
 ## Dependency (Tested on an M1 Mac) 필수설치 맥에서 테스팅.
